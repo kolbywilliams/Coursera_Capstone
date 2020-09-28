@@ -1,1 +1,18 @@
-  The Data that will be used for this analysis will be the shared dataset supplied from the course. The major features that will be used are Severity code, address type, location, Severity description, Collision type, person count, Pedestrian count, Pedestrian vehicle count, incident time and Date, Sdot Collision Description, under the influence indicator, weather, Road condition, and light conditions. For the analysis, the data will be cleansed, analyzed, hypothesis verified, and concluded with predictions. 
+  The Data that will be used for this analysis will be the shared dataset supplied from the course. The major features that will be used are: 
+  Severity code (Target Feature),
+  Severity description (Target Feature),
+  address type, 
+  location,  
+  Collision type, 
+  person count, 
+  Pedestrian count, 
+  Pedestrian vehicle count, 
+  incident time and Date, 
+  Sdot Collision Description, 
+  under the influence indicator, 
+  weather, 
+  Road condition, 
+  and light conditions.
+  For the analysis, the data will be cleansed, analyzed, hypothesis verified, and concluded with a list of the top lethal and non lethal feature columns.  A regression analysis on which the serverity code will be compared to each Feature column (Severity code vs address type/ location). This will reveal features that have a high Postive correlation,  Features with high negtaive corelation, or those with no correlation.  
+
+
